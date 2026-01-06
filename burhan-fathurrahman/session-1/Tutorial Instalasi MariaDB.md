@@ -18,3 +18,6 @@ sudo apt install mariadb-server
 Setelah memasukkan kode di atas. akan muncul tulisan "Continue? [Y/n] " maka ketik dengan "Y"
 
 Lalu cek status MariaDB dengan menggunakan kode "systemctl status mariadb" tidak perlu untuk menggunakan kutip dua. jika sudah terdapat tulisan "enabled" dan "active (running), maka MariaDB sudah bisa digunakan
+
+<img width="936" height="343" alt="Step_MariaDB_4" src="https://github.com/user-attachments/assets/aee562dd-1563-487f-8509-0e11c6595dcc" />
+
